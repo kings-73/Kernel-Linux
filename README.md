@@ -153,5 +153,10 @@ Búsqueda rápida: CONFIG_FUSE_FS
 
 ```
 File systems  ---> 
-     <*> FUSE (Filesystem in Userspace) support
+     <*> FUSE (Filesystem in Userspace) support  
 ```
+### QEMU
+### Impresoras
+### Interfaz Audio
+### DualShock 4
+

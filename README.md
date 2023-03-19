@@ -156,7 +156,14 @@ File systems  --->
      <*> FUSE (Filesystem in Userspace) support  
 ```
 ### QEMU
+###VirtIO Drivers
+
 ### Impresoras
 ### Interfaz Audio
 ### DualShock 4
+Bluetooth
+MTP
+Android Thetering
+USB Type - C
+
 
